@@ -1,0 +1,21 @@
+/* :where(.css-dev-only-do-not-override-15rg2km).ant-table-wrapper .ant-table-thead >tr>th{
+    background-color: rgb(230, 205, 140);
+}
+
+.lama{
+    background-color: rgb(228, 198, 166);
+}
+
+.tree{
+    background-color: rgb(142, 119, 93);
+    color:white;
+} */
+
+:where(.css-dev-only-do-not-override-15rg2km).ant-btn-default:not(:disabled):hover {
+    color: rgb(91, 76, 59);
+    border-color: rgb(67, 57, 46);
+}
+/* 
+:where(.css-dev-only-do-not-override-15rg2km).ant-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: rgb(142, 119, 93);
+} */
